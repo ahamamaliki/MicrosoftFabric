@@ -2,8 +2,8 @@
 <Project DefaultTargets="Build">
   <Sdk Name="Microsoft.Build.Sql" Version="0.2.0-preview" />
   <PropertyGroup>
-    <Name>DBProject</Name>
-    <ProjectGuid>{8B535FDC-F309-490B-9E61-8FF594C58979}</ProjectGuid>
+    <Name>SQLDatabaseFabric</Name>
+    <ProjectGuid>{A562CEF8-04C2-42DC-AAFD-9ACEC0996E92}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.SqlAzureV12DatabaseSchemaProvider</DSP>
     <ModelCollation>1033, CI</ModelCollation>
   </PropertyGroup>
