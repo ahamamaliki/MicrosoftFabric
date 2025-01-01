@@ -1,5 +1,6 @@
 {
     "dataworkspace.excludedProjects": [
         "DBProject/DBProject.sqlproj"
-    ]
+    ],
+    "sqlDatabaseProjects.dotnetSDK Location": "C:\\Program Files\\dotnet\\dotnet.exe"
 }
